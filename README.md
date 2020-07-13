@@ -8,8 +8,9 @@ cd LC101-HTTP-FORMS
 ```
 
 ## Instructions:
-We will work through a few examples of HTTP and FORMS
+Make edits by opening up the project in VS Code, or another editor. `code LC101-HTTP-FORMS`
+To view your changes, you can open up the HTML file in a browser. `open index.html`
 
 ### Mini Activity to close out:
-<!-- Create a form that will post to the supplied API -->
-<!-- Check to see if your results appeared on the screen -->
+Follow the ten instructions in `index.html`
+Submit your form to the supplied API URL, and see if your form data was successsfully returned.
